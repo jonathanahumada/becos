@@ -1,0 +1,322 @@
+#+Title:Becos
+#+Author: Jonatan Ahumada & Jorge Garzón
+#+LANGUAGE: es
+
+
+* Análisis del entorno
+** PESTEL
+*** Político
+**** Amenaza de variante delta
+
+Con la aparición de la variante delta, la comunidad internacional está
+considerando volver a implementar medidas de aislamiento.
+
+Esto es una *amenaza* porque la infraestructura física requiere un
+plantel de trabajadores para sus procesos de confección, que está
+ligado a la mano de obra de las trabajadoras. Habra más costos para
+garantizar la salubridad y hay límites de espacio que se deben
+respetar, lo que disminuye capacidad de producción
+
+**** Cese de presencialidad en los colegios
+
+Si se prolonga el aislamiento social, por un posible cuarto pico, la
+proyección de ventas se desploma, puesto que prinipalmente recae en
+escuelas de futbol y colegios de Bogotá, que participan en torneos
+locales.
+
+Esto es una *amenaza* porque no habrá demanda de uniformes.
+
+**** Déficit fiscal y tributación de la reforma 2.0:
+
+En la nueva reforma fiscal la tarifa de renta subirá del 30 al 35%
+para hacerle frente al déficit fiscal que enfrenta el país.
+
+Esto es una *amenaza* porque los márgenes de rentabilidad será más
+estrecho.  Más aun, teniendo en cuenta el costo competitivo que el
+plan de negocios plantea para sus productos.
+
+*** Económico
+**** Alsa del dólar
+La amenaza de la variante delta hace que la Fed aumente las tasas de
+interés del dolar, lo que desvaloriza el peso colombiano frente a la
+divisa.
+
+Esto es una *amenaza* porque puede disuadir la inversión.
+
+**** Proceso de reactivación económica
+*** Social
+**** Protagonismo del sector textil colombiano a nivel internacional
+
+El sector textil y la moda registra el 37% de las empresas registrados
+en CCB.  Según Colombia productiva, el sector textil y de confección
+es el primer generador de mano de obra en la industria
+nacional. Además, colombia es el primer exportador de tejido plano en
+Suramérica.
+
+Esto es una *oportunidad* porque el reconocimiento externo de la moda
+colombiana podría potenciar aún más la propuesta diferenciadora de
+Becos: ayudar a madres cabezas de hogar de sectores vulnerables a la
+vez que se contrinuye al medio ambiente.
+
+**** Necesidad de impulsar la reactivación económica
+
+El Gobierno Duque enfatiza que el pais muestra ritmo de crecimiento
+elevado (1,1%) el primer trimestre del año, en comparación con paises
+como Chile o México. El gobierno pronostica un desarrollo favorable
+durante el resto del año.
+
+Esto es una *oportunidad* porque parece improbable que el gobierno
+actual paralice la reactivación ecónomica, más aún si se se han hecho
+esfuerzos presupuestales para iniciar le proceso de vacunación.
+
+*** Tecnológico
+**** Costos en servicios web
+ Los servicios de Cloud Computing de Amazon se cotizan en dólares.
+ Este servicio es parte crucial de la infraestructura tecnolgócia
+
+ Esto es una *amenaza* porque aumenta los costos en infraestructua
+****  Escasez de profesionales TI
+
+Esto es una *amenaza* heredada del mercado de talento humano
+colombiano, ya que a día de hoy existe una demanda superior a la
+oferta en cuanto a profesionales TI.
+     
+*** Ambiental
+**** Aceptación cultural del reciclaje
+El mundo está entrando en periodo de conciencia ambiental. En
+Colombia, sectores como el de los hidrocarburos están iniciado una
+transformación hacia energías más limpias.
+
+Esto es una *oportunidad*, puesto que hay una tendencia cultural
+por participar en la genereción de un mundo ecosostenible, lo
+que hace que la propuesta de Becos altamente atractiva en el pais
+y el mundo por igual.
+*** Legal
+**** Beneficios de una Sociedad por acciones simplificada
+
+En Colombia, estar constituido de esta manera representa una
+*oportunidad*, dadas las exenciones tributarias que conlleva.
+
+**** Beneficios ambientales
+
+Se considera una *oportunidad* ya que la propuesta de Becos también
+pretende ser referente a nivel de leyes.
+** 5 Fuerzas
+#+CAPTION: 5 fuerzas de Porter 
+#+NAME:   fig:1
+[[./assets/build/5_fuerzas.png]]
+
+* BMM
+** Misión y vision
+*** Misión
+    Ser referente nacional e internacional con respecto
+    a procesos ecologicamente sostenibles en el sector
+    textil. Unir el diseño de la moda colombiana
+    con la sostenibilidad y la conciencia social.
+    
+*** Visión
+   
+    Para el año 2025, BECOS tendrá toda la línea de ropa deportiva
+    fabricada con elementos 85% reciclados. Tendrá lineas de ropa
+    deportiva para los deportes más comunes, dándole especial énfasis a
+    los más practicados por los colombianos: fútbol, basquetbol, ciclismo,
+    tenis, entre otros.
+
+** Assesment
+**** Influencias
+
+1. Externas
+
+     - Gobierno Colombiano
+     - Mercado Internacional
+     - Confeccionistas de Bogotá
+
+
+2. Internas
+
+   - Adecuación a protocolos de Bioseguridad
+   - Implementación de hardware y software
+
+**** DOFA
+#+CAPTION: DOFA para Assesment de Influencias
+#+NAME:   fig:2
+[[./assets/build/dofa.png]]
+
+
+*** Medios
+
+#+CAPTION: Estrategia
+#+NAME: fig:3
+ [[./assets/build/means.png]]
+     	    
+*** Externas
+
+** Blue Ocean Strategy Canvas & ERRC GRID
+#+CAPTION: Blue Ocean Strategy Canvas
+#+NAME:   fig:4
+ [[./assets/build/blue_ocean_canvas.png]]
+#+CAPTION: ERRC
+#+NAME:   fig:5
+ [[./assets/build/ercc.png]]
+** Mapa de procesos, diccionario de procesos y organigrama
+#+CAPTION: Mapa de procesos
+#+NAME: fig:6
+ [[./assets/build/mapa_procesos.png]]
+
+#+CAPTION: Diccionario de Procesos
+#+NAME: fig:7
+[[./assets/build/diccionario_procesos.png]]
+
+#+CAPTION: Organigrama
+#+NAME: fig:8
+[[./assets/build/organigrama.png]]
+
+* Buyer Persona
+*** Definición del segmento de clientes
+   Los clientes potenciales de BECOS son principalmente
+   dos segmentos.
+
+   1) Padres de niños en escuelas de fútbol
+
+      El segmento principal de BECOS son
+      las escuelas de fútbol, puesto
+      que presentan la necesidad
+      de adqirir un uniforme.
+      Sin embargo, en este momento
+      este segmento está en amenaza,
+      por las restricciones en la
+      presencialidad de los colegios
+      y la prohibición de aglomeraciones.
+      Aunque el usuario final es un niño
+      o joven menor de 18, los clientes
+      son padres de un rango variable de
+      edad.
+
+      
+   2) Deportistas independientes
+      
+      En Bogotá se observa que las
+      canchas de los parques públicos se utilizan
+      para jugar extra oficialmente. Es decir,
+      sin necesidad de estar inscritos en una
+      escuela. Por lo general, los usuarios
+      forman equipos regulares de amigos, o
+      conocidos del área que podrían estar
+      interesados en adquirir un uniforme,
+      para añadir un 'plus' a sus partidos
+      recreaionales. Se 
+      
+*** Entrevistas
+    En este momento, solo contamos con una entrevista:
+
+    #+begin_src
+Jorge Garzón: Cuando jugaba futbol, ¿Lo hacía de manera aficionada o por algún torneo?
+
+Entrevistado: Ambas.
+
+JG: ¿Con uniforme?
+
+E: Sí, claro.
+
+JG: ¿Cuánto fue lo máximo que pagó por un uniforme?
+
+E: En ese tiempo, aproximadamente $50.000 o un poco más.
+
+JG: ¿Se ponían de acuerdo?
+
+E: La mayoría lo hacía.
+
+JG: ¿Siempre estuvo satisfecho con esas decisiones?
+
+E: La mayoría de las veces, y uno accedía con tal de estrenar uniforme.
+
+JG: ¿Le quedaba bien el uniforme?
+
+E: Sí
+
+JG: ¿Y al momento del partido?
+
+E: Sí
+
+JG: ¿Le parecía justo el precio?
+
+E: Mire que sí. Lo mandábamos a hacer en Saeta y Speed.
+
+JG: En su momento, ¿Hubiera pagado más por tener más opciones de personalización en su uniforme?
+
+E: Sí, claro.
+
+JG: ¿Le prestaba atención al material de su uniforme?
+
+E: Sí, claro.
+
+JG: ¿Y si su uniforme fuera hecho con plástico PET?
+
+E: No sé, se suda más uno y se acalora más, ¿no? Por eso uno los manda a hacer en tela, ya que siente más brisa.
+
+En este punto, se le explicaron los beneficios de hacer un uniforme mediante plásticos PET.
+
+E: Igual sería bacano, ya que se utiliza mayor material reciclado
+
+JG: ¿Algún confeccionista le presentó opciones de personalización?
+
+E: No
+
+JG: ¿Le parece interesante cotizar uniformes por internet y luego ir a la fábrica?
+
+E: Sí, claro.
+    #+end_src
+*** Encuesta
+    
+    #+begin_src
+Aspectos del producto    
+- ¿juegas en algún equipo de fútbol, tienen uniformes?
+- ¿Tuviste alguna capacidad de decisión en cuanto al uniforme de tu equipo?
+- ¿Quien te pareció que tuvo el factor decisivo en la decisión?
+- ¿Estuviste de acuerdo con la decisición del uniforme?
+- ¿Estás satisfecho con la calidad de tu uniforme?
+- ¿Te orma bien tu uniforme?
+- Si no, ¿qué le mejorarías?
+- ¿Te gusta estéticamente tu uniforme?
+- Si no, ¿qué le mejorarías?
+- ¿Te parece justo el precio que pagaste por los uniformes que has comprado?
+- ¿Te parece que un precio entre  45,000 y 48,000  es competitivo para un uniforme (camisa y pantaloneta) en Bogotá?
+- ¿Pagarías más para tener más opciones de personalización en tu uniforme?
+- ¿Pagarías más para tener un tejido más resistente en tu uniforme?
+
+factor diferenciador 
+- ¿Le prestas atención al material del uniforme, sabes de qué estan hechos los uniformes que has comprado anteriormente?
+- ¿Conoces los beneficios del PET como tejido textil?
+- Ahora que los conoces (se los dices):
+- ¿Te importaría positivamente si los uniformes están hechos con un alto grado de plastico PET desechable para contruibir al planeta?
+- ¿Te importaría negativamente si los uniformes están hechos con un alto grado de plástico PET desechable para contribuir al planeta?
+- ¿Conoces cómo confeccionaron los uniformes que has comprado anteriormente?
+- ¿Te importaría positivamente si los uniformes están confeccionados por madres cabeza de hogar?
+- ¿Te importaría negativamente si los uniformes están confeccionado por madres cabeza de hogar?
+- ¿Te interesaría tener uniformes para jugar con tus amigos (torneos no oficiales, fines de semana, etc?
+- ¿Te interesaría poder diseñar uniformes?
+- ¿Te interesarí ir a premisas (a la fabrica), para comprobar tonalidades de color y medidas de la prenda antes de producir el producto?
+- ¿Has comprado algun uniforme que te ofrezca personalización anteriormente?
+- ¿Has comprado a algún confeccionista en Bogotá que te ofrezca validación de colores y medidas antes de comprar el uniforme?
+
+diversificacion
+- ¿Te interesaria cotizar uniformes por internet y luego validarlos en premisa?
+- ¿Te interesaria participar en eventos deportivos auspiciados por BECOS y otros sponsors?
+- ¿Te interesaria tener otros productos de un material similiar y estética al de tu uniforme?
+- ¿Puedes nombrar alguno que te interese (buzos, gorras, bolsos, etc, ropa casual)?
+
+
+    #+end_src
+    
+*** Cliente incognito
+*** Observación
+    
+*** Identificacion y definición de los clientes
+    En la primera interacción, se descubrió que los
+    factores diferenciadores de BECOS, los beneficios
+    ambientales y la contribución social a las
+    madres cabeza de hogar, *no* representan
+    un valor percibido para los clientes.
+
+    El punto a favor es que el precio propuesto
+    es percibido como competitivo.

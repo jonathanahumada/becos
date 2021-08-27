@@ -1,0 +1,157 @@
+#+Title:Becos
+#+Author: Jonatan Ahumada & Jorge Garzón
+#+LANGUAGE: es
+
+
+* Análisis del entorno
+** PESTEL
+*** Político
+**** Amenaza de variante delta
+
+Con la aparición de la variante delta, la comunidad internacional está
+considerando volver a implementar medidas de aislamiento.
+
+Esto es una *amenaza* porque la infraestructura física requiere un
+plantel de trabajadores para sus procesos de confección, que está
+ligado a la mano de obra de las trabajadoras. Habra más costos para
+garantizar la salubridad y hay límites de espacio que se deben
+respetar, lo que disminuye capacidad de producción
+
+**** Cese de presencialidad en los colegios
+
+Si se prolonga el aislamiento social, por un posible cuarto pico, la
+proyección de ventas se desploma, puesto que prinipalmente recae en
+escuelas de futbol y colegios de Bogotá, que participan en torneos
+locales.
+
+Esto es una *amenaza* porque no habrá demanda de uniformes.
+
+**** Déficit fiscal y tributación de la reforma 2.0:
+
+En la nueva reforma fiscal la tarifa de renta subirá del 30 al 35%
+para hacerle frente al déficit fiscal que enfrenta el país.
+
+Esto es una *amenaza* porque los márgenes de rentabilidad será más
+estrecho.  Más aun, teniendo en cuenta el costo competitivo que el
+plan de negocios plantea para sus productos.
+
+*** Económico
+**** Alsa del dólar
+La amenaza de la variante delta hace que la Fed aumente las tasas de
+interés del dolar, lo que desvaloriza el peso colombiano frente a la
+divisa.
+
+Esto es una *amenaza* porque puede disuadir la inversión.
+
+**** Proceso de reactivación económica
+*** Social
+**** Protagonismo del sector textil colombiano a nivel internacional
+
+El sector textil y la moda registra el 37% de las empresas registrados
+en CCB.  Según Colombia productiva, el sector textil y de confección
+es el primer generador de mano de obra en la industria
+nacional. Además, colombia es el primer exportador de tejido plano en
+Suramérica.
+
+Esto es una *oportunidad* porque el reconocimiento externo de la moda
+colombiana podría potenciar aún más la propuesta diferenciadora de
+Becos: ayudar a madres cabezas de hogar de sectores vulnerables a la
+vez que se contrinuye al medio ambiente.
+
+**** Necesidad de impulsar la reactivación económica
+
+El Gobierno Duque enfatiza que el pais muestra ritmo de crecimiento
+elevado (1,1%) el primer trimestre del año, en comparación con paises
+como Chile o México. El gobierno pronostica un desarrollo favorable
+durante el resto del año.
+
+Esto es una *oportunidad* porque parece improbable que el gobierno
+actual paralice la reactivación ecónomica, más aún si se se han hecho
+esfuerzos presupuestales para iniciar le proceso de vacunación.
+
+*** Tecnológico
+**** Costos en servicios web
+ Los servicios de Cloud Computing de Amazon se cotizan en dólares.
+ Este servicio es parte crucial de la infraestructura tecnolgócia
+
+ Esto es una *amenaza* porque aumenta los costos en infraestructua
+****  Escasez de profesionales TI
+
+Esto es una *amenaza* heredada del mercado de talento humano
+colombiano, ya que a día de hoy existe una demanda superior a la
+oferta en cuanto a profesionales TI.
+     
+*** Ambiental
+**** Aceptación cultural del reciclaje
+El mundo está entrando en periodo de conciencia ambiental. En
+Colombia, sectores como el de los hidrocarburos están iniciado una
+transformación hacia energías más limpias.
+
+Esto es una *oportunidad*, puesto que hay una tendencia cultural
+por participar en la genereción de un mundo ecosostenible, lo
+que hace que la propuesta de Becos altamente atractiva en el pais
+y el mundo por igual.
+*** Legal
+**** Beneficios de una Sociedad por acciones simplificada
+
+En Colombia, estar constituido de esta manera representa una
+*oportunidad*, dadas las exenciones tributarias que conlleva.
+
+**** Beneficios ambientales
+
+Se considera una *oportunidad* ya que la propuesta de Becos también
+pretende ser referente a nivel de leyes.
+** 5 Fuerzas
+#+CAPTION: 5 fuerzas de Porter 
+#+NAME:   fig:1
+[[./assets/build/5_fuerzas.png]]
+
+** BMM
+
+*** Assesment
+**** Influencias
+
+1. Externas
+
+     - Gobierno Colombiano
+     - Mercado Internacional
+     - Confeccionistas de Bogotá
+
+
+2. Internas
+
+   - Adecuación a protocolos de Bioseguridad
+   - Implementación de hardware y software
+
+**** DOFA
+#+CAPTION: DOFA para Assesment de Influencias
+#+NAME:   fig:2
+[[./assets/build/dofa.png]]
+
+
+*** Medios
+
+#+CAPTION: Estrategia
+#+NAME: fig:3
+ [[./assets/build/means.png]]
+     	    
+*** Externas
+** Blue Ocean Strategy Canvas & ERRC GRID
+#+CAPTION: Blue Ocean Strategy Canvas
+#+NAME:   fig:4
+ [[./assets/build/canvas.png]]
+#+CAPTION: ERRC
+#+NAME:   fig:5
+ [[./assets/build/ercc.png]]
+** Mapa de procesos, diccionario de procesos y organigrama
+#+CAPTION: Mapa de procesos
+#+NAME: fig:6
+ [[./assets/build/mapa_procesos.png]]
+
+#+CAPTION: Diccionario de Procesos
+#+NAME: fig:7
+[[./assets/build/diccionario_procesos.png]]
+
+#+CAPTION: Organigrama
+#+NAME: fig:8
+[[./assets/build/organigrama.png]]
