@@ -307,9 +307,55 @@ diversificacion
 
 
     #+end_src
-    
+
+
+    NOTA: hay más encuestas realizadas (7), pero
+    la transcripción aún no se ha realizado
 *** Cliente incognito
+
+    Pendiente.
+    
 *** Observación
+
+    Alrededor de las escuelas de futbol se forma
+    una microcomunidad en la que un grupo
+    significativo de padres participa.
+    Esta comunidad se identificó como un segmento
+    y posteriormente si hizo un buyer persona.
+    Es un blanco potencial a explotar, aunque
+    es difícil encaminar los esfuerzos porque
+    sencillamente no reportan tener una
+    injerencia en la decición de compra en los uniformes.
+
+    Los entrenadores, por su parte, que serían
+    siendo un cliente más directo de Becos.
+    Están constantemente apurados con el tiempo
+    o atendiendo a los padres. La entrevista
+    es difícil y apurada. El uniforme tiende a
+    representar los valores de la escuela y
+    muestran una actitud cerrada a la idea
+    de personalización y mayor participación
+    de padres o confecionistas.
+
+    
+    Sin embargo, las entrevistas revelan
+    que hay aspectos de la indumentaria deportiva
+    con los que hay insatisfacción y que los entrenadores
+    simplemente desconocen y no tendrían tiempo de abordar.
+
+    Principalmente, las madres reportan que la amplitud de
+    los uniformes no es favorable para sus hijas, que ls
+    gustaria que se secaran más rapido y exiguieran menos cuidado,
+    que fueran más resistentes y tuvieron una respuesta muy
+    positiva al precio.
+
+    Un grupo considerable siente insatisfacción con la
+    estética del uniforme, aunque manifiestan que no
+    hay nada que se pueda hacer, porque es prerrogativa
+    del colegio o institución.
+
+    
+
     
 *** Identificacion y definición de los clientes
     En la primera interacción, se descubrió que los
@@ -320,3 +366,276 @@ diversificacion
 
     El punto a favor es que el precio propuesto
     es percibido como competitivo.
+
+    Hasta ahora se han distinguido tipos de clientes,
+    que corresponserán a 3 segmentos:
+
+    1) Madres y padres de familia (cliente potencial)
+
+    2) Entrenadores y directivos de escuelas de futbos (cliente)
+
+    3) Jugadores/Deportistas regulares independientes (clientes)
+
+    4) Menor de edad deportista (consumidor final)
+
+
+* Buyer Personas
+
+  Los Buyer personas se hicieron a partir de la identificción de los
+  clientes y las entrevistas. 
+
+** Adri
+
+#+begin_src 
+'Adri' 
+
+Segmento
+
+Padres de familia
+
+Puesto 
+
+Representante de venta 
+
+Edad 
+
+Entre 35 y 44 años 
+
+Nivel de educación más alto 
+
+Título profesional 
+
+Redes sociales 
+
+
+Industria 
+
+Publicidad 
+
+Tamaño de la organización 
+
+Entre 1 y 10 empleados 
+
+Canal favorito de comunicación 
+
+
+Teléfono 
+Correo electrónico 
+Herramientas que necesita para trabajar 
+
+
+Sistemas de gestión de contenido 
+Gestión de proyectos 
+Responsabilidades laborales 
+
+Dirigir grupos pequeños de personas 
+
+Su trabajo se mide en función de 
+
+productividad 
+
+Su superior es 
+
+Director 
+
+Metas u objetivos 
+
+Sacar más tiempo para su familia y mantener un empleo satisfactorio 
+
+Obtiene información a través de 
+
+De su formación profesional y red de contactos 
+
+Dificultades principales 
+
+
+Gestión de proyectos y falta de organización 
+Colaboración y creatividad 
+Frustraciones 
+
+No siente que su labor como madre es reconocida, a pesar de que es muy dedicada. 
+Semanalmente acompaña a su hijo la escuela de fútbol y participa mucho en las actividades de la 
+escuela. Sin embargo, esto la obliga a manejar muy buen su tiempo porqe tiene un ritmo de 
+trabajo considerable. 
+
+¿Qué escucha? 
+
+Escucha que hay muchos problemas en el mundo y siente que debe colaborar con el cuidado 
+medioambiental y sectores menos privilegiados. Sus amigas tienen u estilo de vida diferente al 
+de ella (algunas no están casadas), pero ella prefiere priorizar su hogar y luego, desempeñarse 
+bien en el mundo laboral. Entiende que su hijas están expuestas a retos insospechados y por eso 
+les brinda el mejor acompañamiento posible, sin ser sobreprotectora. 
+#+end_src
+
+** Entrenador Richard
+
+
+
+
+#+begin_src 
+
+Entrenador Richard 
+
+Segmento
+
+Entrenadores
+
+Puesto 
+
+
+Entrenador Líder 
+
+Edad 
+
+Entre 35 y 44 años 
+
+Nivel de educación más alto 
+
+Licenciatura 
+
+Redes sociales 
+
+
+Industria 
+
+Cuidado de la salud 
+
+Tamaño de la organización 
+
+Entre 11 y 50 empleados 
+
+Canal favorito de comunicación 
+
+
+Teléfono 
+Correo electrónico 
+Herramientas que necesita para trabajar 
+
+
+Correo electrónico 
+Responsabilidades laborales 
+
+Escribe aquí 
+
+Su trabajo se mide en función de 
+
+Supervisión de los horarios de entrenamiento, interacción con padres y alumnos, mide el 
+resultado de entrenadores a su cargo, consigue eventos deportivos para que los alumnos 
+puedan participar 
+
+Su superior es 
+
+Dueños de la escuela privada de fútbol 
+
+Metas u objetivos 
+
+Richard ha sido entrenador durante mucho tiempo en la escuela, y esta ha adquirido gran 
+prestigio, por lo que siente gran orgullo. Cree en los valores de la disciplina y el trabajo y 
+procura comunicarselos a sus alumnos. 
+
+Obtiene información a través de 
+
+En su formación profesional 
+
+Dificultades principales 
+
+
+Moral del empleado a cargo y de los muchachos
+
+Gestión del cambio
+
+Frustraciones 
+
+Richard maneja varios grupos de entrenamiento (de 3 a 5) todos los días , incuidos los sábados. 
+Debe mantener una actitud positiva todo el tiempo, pero en ocasiones es difícil lidiar con los 
+padres. El entiende que están preocupados por sus hijos, pero a la vez se da cuenta de que 
+muchos los sobreprotejen. Debe balancear la complacencia hacia padres y alumnos con la 
+excelencia deportiva. 
+#+end_src
+
+
+** Jason Rappiazone
+
+   #+begin_src 
+Jason Rappiazone 
+
+Segmento
+
+ Jugadares regulares independientes
+
+Puesto 
+
+Mensajero en diferentes empresas 
+
+Edad 
+
+Entre 18 y 24 años 
+
+Nivel de educación más alto 
+
+Secundario o equivalente 
+
+Redes sociales 
+
+
+Industria 
+
+Alimentos y bebidas 
+
+Tamaño de la organización 
+
+Trabajador independiente 
+
+Canal favorito de comunicación 
+
+
+Mensajes de texto 
+Teléfono 
+En persona 
+Redes sociales 
+Herramientas que necesita para trabajar 
+
+Smartphone, bicicleta eléctrica 
+
+Su trabajo se mide en función de 
+
+Por envíos 
+
+Responsabilidades laborales 
+
+Hacer envíos a tiempo. 
+
+Metas u objetivos 
+
+Jason aspira un mejor nivel salarial, que le permita dedicarse a algo que le apasione, aunque aún 
+no ha hallado qué es. Hay situaciones socioeconocimas que se han interpuesto en su camino, por 
+lo que lleva algunos años trabajando como mensajero para varias empuestas. 
+
+Su superior es 
+
+Director 
+
+Obtiene información a través de 
+
+Del contancto con otros jóvenes como el.
+
+Dificultades principales 
+
+
+Desarrollo profesional 
+Recursos 
+
+Frustaciones 
+
+Siente que la vida a sido injusta con el y que a otras personas les ha tocado mucho más fácil. Por 
+eso siente un vínculo bastante fuerte con otros jóvenes que laboran en los mismos trabajos que 
+el. Anda mucho en la calle y las interacciones sociales son importantes durante el dia. 
+El fútbol luego del trabajo es pan de cada día. 
+
+
+¿Qué escucha? 
+
+Ve muchas redes sociales porque trabaja con su smartphone. Ve muchos contenidos de 
+recreación, como con 'Con Ánimo de Ofender', pero tambien se siente muy atraido por las 
+protestas sociales, que abundan en el país, y en países aledaños. 
+   #+end_src
