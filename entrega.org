@@ -1,7 +1,49 @@
 #+Title:Becos
 #+Author: Jonatan Ahumada & Jorge Garzón
 #+LANGUAGE: es
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER_EXTRA: \setmainfont{Noto Sans}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER_EXTRA: \setmainfont{Noto Sans}
+#+LATEX_HEADER_EXTRA: \pagestyle{fancy}
+#+LATEX_HEADER_EXTRA: \fancyhf{}
+#+LATEX_HEADER_EXTRA: \rhead{\includegraphics[width=0.05\textwidth]{assets/build/logo_nuevo_header}}
+#+LATEX_HEADER_EXTRA: \lhead{Becos}
+#+LATEX_HEADER_EXTRA: \rfoot{Página \thepage}
+#+OPTIONS: title:nil 
 
+
+\begin{titlepage}
+   \begin{center}
+       \vspace*{1cm}
+
+       \textbf{Plan de Negocios}
+
+       
+        
+        \includegraphics[width=0.8\textwidth]{assets/build/logotipo_nuevo}          
+       \vspace{1.5cm}
+
+       \textbf{Jonatan Ahumada \\
+              Jorge Garzón}
+
+       \vfill
+           
+               
+       \vspace{0.8cm}
+     
+
+            
+       Fundación Universitaria Konrad Lorenz\\
+       Administración de Procesos de Negocio\\
+       Bogotá, Colombia\\
+ 
+            
+   \end{center}
+\end{titlepage}
 
 * Análisis del entorno
 ** PESTEL
@@ -48,7 +90,7 @@ en el sector textil. Esto puede reducir los márgenes de
 rentabilidad de la confección, manufactura y distribución
 de producto textil.
 
-**** Proceso de reactivación económica
+
 *** Social
 **** Protagonismo del sector textil colombiano a nivel internacional
 
@@ -108,6 +150,7 @@ pretende ser referente a nivel de leyes.
 ** 5 Fuerzas
 #+CAPTION: 5 fuerzas de Porter 
 #+NAME:   fig:1
+#+ATTR_LaTeX:  :placement [H]
 [[./assets/build/5_fuerzas.png]]
 
 * BMM
@@ -144,6 +187,7 @@ pretende ser referente a nivel de leyes.
 
 **** DOFA
 #+CAPTION: DOFA para Assesment de Influencias
+#+ATTR_LaTeX:  :placement [H]
 #+NAME:   fig:2
 [[./assets/build/dofa.png]]
 
@@ -151,6 +195,7 @@ pretende ser referente a nivel de leyes.
 *** Medios
 
 #+CAPTION: Estrategia
+#+ATTR_LaTeX:  :placement [H]
 #+NAME: fig:3
  [[./assets/build/means.png]]
      	    
@@ -158,23 +203,44 @@ pretende ser referente a nivel de leyes.
 
 ** Blue Ocean Strategy Canvas & ERRC GRID
 #+CAPTION: Blue Ocean Strategy Canvas
-#+NAME:   fig:4
- [[./assets/build/blue_ocean_canvas.png]]
-#+CAPTION: ERRC
-#+NAME:   fig:5
- [[./assets/build/ercc.png]]
+
+Ver figuras \ref{fig:blue_ocean}, \ref{fig:ercc}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=.9\linewidth]{./assets/build/blue_ocean_canvas.png}
+\caption{\label{fig:blue_ocean}Blue Ocean Strategy Canvas}
+\end{figure}
+\begin{figure}[H]
+\centering
+\includegraphics[width=.9\linewidth]{./assets/build/ercc.png}
+\caption{\label{fig:ercc}ERRC}
+\end{figure}
 ** Mapa de procesos, diccionario de procesos y organigrama
-#+CAPTION: Mapa de procesos
-#+NAME: fig:6
- [[./assets/build/mapa_procesos.png]]
 
-#+CAPTION: Diccionario de Procesos
-#+NAME: fig:7
-[[./assets/build/diccionario_procesos.png]]
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=.9\linewidth]{./assets/build/mapa_procesos.png}
+\caption{\label{fig:mapa_procesos}Mapa de procesos}
+\end{figure}
 
-#+CAPTION: Organigrama
-#+NAME: fig:8
-[[./assets/build/organigrama.png]]
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=.9\linewidth]{./assets/build/diccionario_procesos.png}
+\caption{\label{fig:dic_procesos}Diccionario de Procesos}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=.9\linewidth]{./assets/build/organigrama.png}
+\caption{\label{fig:organigrama}Organigrama}
+\end{figure}
+
+Ver figuras \ref{fig:mapa_procesos}, \ref{fig:dic_procesos}, \ref{fig:organigrama}.
+
+
+
+
 
 * Buyer Persona
 *** Definición del segmento de clientes
@@ -226,68 +292,142 @@ pretende ser referente a nivel de leyes.
        
       
 *** Entrevistas
-    En este momento, solo contamos con una entrevista:
+    En total se hicieron 10 entrevistas. Aquí dejamos una
+    muestra a manera de ejemplo:
 
-    #+begin_src
-Jorge Garzón: Cuando jugaba futbol, ¿Lo hacía de manera aficionada o por algún torneo?
+    #+begin_verse
 
-Entrevistado: Ambas.
 
-JG: ¿Con uniforme?
+   
+- ¿juegas en algún equipo de fútbol, tienen uniformes?
+  Sí. Mi hijo. ( lo señala)
+- ¿Tuviste alguna capacidad de decisión en cuanto al uniforme de tu equipo?
+  No.
 
-E: Sí, claro.
 
-JG: ¿Cuánto fue lo máximo que pagó por un uniforme?
+- ¿Quien te pareció que tuvo el factor decisivo en la decisión?
 
-E: En ese tiempo, aproximadamente $50.000 o un poco más.
+  La verdad no sé porque mi esposo es el que ha estado interactuando. Pero mi amgino que son los preofesores con algun proveedor no?. Y tuvieron que haber tenido en cuenta la disciplina
 
-JG: ¿Se ponían de acuerdo?
+- ¿Estuviste de acuerdo con la decisición del uniforme?
 
-E: La mayoría lo hacía.
+  Sí. me parece que son los idóneos
+  
+- ¿Estás satisfecho con la calidad de tu uniforme, le cambiarías algo?
 
-JG: ¿Siempre estuvo satisfecho con esas decisiones?
+  No porque son uniformes bastante amplios, cómodos. No definen la
+  figura de algun modo. 
+  
+-¿Te orma bien tu uniforme?
+  (El entendido es que no )
+ 
 
-E: La mayoría de las veces, y uno accedía con tal de estrenar uniforme.
+- ¿Te gusta estéticamente tu uniforme?
 
-JG: ¿Le quedaba bien el uniforme?
+  Le cambiará el color porque ese tono de rojo no me
+  llama mucho la atencion.
+  Muy chillón.
 
-E: Sí
+  Me gusta más el azul de la chica aquella
 
-JG: ¿Y al momento del partido?
+Precio
 
-E: Sí
+- ¿Te parece justo el precio que pagaste por los uniformes que has comprado?
 
-JG: ¿Le parecía justo el precio?
+  En particular no lo he comprado porque mi hijo es nuevo. Esta es una clase de
+  cortesía.
+  
+- ¿Te parece que un precio entre  45,000 y 48,000  es competitivo para un uniforme (camisa y pantaloneta) en Bogotá?
 
-E: Mire que sí. Lo mandábamos a hacer en Saeta y Speed.
+   La verdad me parece ecónomico (sonríe).
+  
+- ¿Pagarías más para tener más opciones de personalización en tu uniforme?
 
-JG: En su momento, ¿Hubiera pagado más por tener más opciones de personalización en su uniforme?
+  Depronto no por el tema de personalizacion sino por ejemplo, la textura de la tela.
 
-E: Sí, claro.
+   Por ejemplo, los uniformes de Adidas que son telas especializadas
+   para el sudor. Si me ofrecen telas así especializadas, si estaría
+   dispuesta a pagar más.
 
-JG: ¿Le prestaba atención al material de su uniforme?
+  
+  
 
-E: Sí, claro.
+factor diferenciador 
 
-JG: ¿Y si su uniforme fuera hecho con plástico PET?
+- ¿Le prestas atención al material del uniforme, sabes de qué estan hechos los uniformes que has comprado anteriormente?
 
-E: No sé, se suda más uno y se acalora más, ¿no? Por eso uno los manda a hacer en tela, ya que siente más brisa.
+  Sí. Me parece realmente importante. Me parece uno de los temas más importantes.
+  ¿conoces de qué están hechos los uniformes de Adidas?
+  Pues, que yo te diga especificamente no. Porque no tengo estudios sobre el tema.
+  Pero cuando una va a una iende de adidas uno suelde explicarles a uno prque tiene este sistema.
+  le explican a uno las especificaciones y cuales son los beneficios de pagar ese costo por el producto
 
-En este punto, se le explicaron los beneficios de hacer un uniforme mediante plásticos PET.
+  - ¿Conoces los beneficios del PET como tejido textil?
+  No. Ni idea
+- Ahora que los conoces:
+- ¿Te importaría positivamente si los uniformes están hechos con un alto grado de plastico PET desechable para contruibir al planeta?
 
-E: Igual sería bacano, ya que se utiliza mayor material reciclado
+  Sí. Me llamaria la atencion porque contribuye al planeta pero siempre y cuando no genera ninguna enfermedad para el cuerpo de mi hijo. Alguna reaccion en la pioel  Me imagino que eso tiene un proceso ideoneo para asegurar su uso.
+  
+- ¿Te importaría negativamente si los uniformes están hechos con un alto grado de plástico PET desechable para contribuir al planeta?
 
-JG: ¿Algún confeccionista le presentó opciones de personalización?
+  N.A
+  
+- ¿Conoces cómo confeccionaron los uniformes que has comprado anteriormente?
+  No.
+  
+- ¿Te importaría positivamente si los uniformes están confeccionados por madres cabeza de hogar?
 
-E: No
+  Me parecería espectacular. Entre una persona del comun y una madre cabeza de hogar por su puesto que me de decantarpia por
+  una madre cabeza de hogar.
 
-JG: ¿Le parece interesante cotizar uniformes por internet y luego ir a la fábrica?
+- ¿Te interesaría poder diseñar uniformes?
+ 
+- ¿Te interesarí ir a premisas (a la fabrica), para comprobar tonalidades de color y medidas de la prenda antes de producir el producto?
+  No. Me hstaria que ellos que fueron los que estudiaron, los diseñen y me los muestren y yo lo escogeria.
+  Pero participar con eldiseño como tal, no, porque no es algo sea de mi interes. Pero depronto sí estar pendiende que
+  sea un diseño bonito
+- ¿Has comprado algun uniforme que te ofrezca personalización anteriormente?
 
-E: Sí, claro.
-    #+end_src
+  No.Practicamente lo que el colegio ofrece, los colores ,los textiles. Uno está supeditado a lo que el colegio ofrece.
+
+  ¿Como madre te gustaria participar?
+  
+   Sí me gustaria porque particularmente los uniformes del colegio de mi hija a mí nunca me han gustado.Son chillones.
+   Uy. Fuchsia con un azúl terrible.
+   
+- ¿Has comprado a algún confeccionista en Bogotá que te ofrezca validación de colores y medidas antes de comprar el uniforme?
+  No.
+ 
+diversificacion
+- ¿Te interesaria cotizar uniformes por internet y luego validarlos en premisa?
+
+  Sí. Me parece una buena metodología. Más ahora en esta epoca de pandemia. Si hay la oportunidad de verlos asú y no tener que ir a un lugar y exponerse muchísimo mejor. 
+
+- ¿Te interesaria tener otros productos de un material similiar y estética al de tu uniforme?
+- ¿Puedes nombrar alguno que te interese (buzos, gorras, bolsos, etc, ropa casual)?
+
+  Sí. Derponto para patinaje. Por lo general uno no ve uniformes así en esa disciplina. Mira que
+  si tu vas a escuales de patinaje o cursos de patinaje, normalmente no piden uniforme.
+
+  ¿Tu hija o hijo a estado?
+  Sí. Mi hijo y no le pidieron uniforme
+
+  ¿Y a tí como madre te gustaria darle el uniforme, para que se siente más cómodo practicando...?
+
+  Sí. Porque por ejemplo cuando empezó el curso rompió dos sudaderas. Eran sudaderas
+  costosas. de marca. En cambio con un uniforme de esos pues si se rompe uno dice
+  el costo no fue tan alto.
+
+  Que sea un atuendo que se pueda poner para practicar ese deporte específicamente.
+  
+  Gracias
+#+end_verse
 *** Encuesta
+    Esta encuesta se circuló en redes sociales,|
+    pero no alcanzó un valor representativo.
     
-    #+begin_src
+    #+begin_verse
 Aspectos del producto    
 - ¿juegas en algún equipo de fútbol, tienen uniformes?
 - ¿Tuviste alguna capacidad de decisión en cuanto al uniforme de tu equipo?
@@ -324,12 +464,8 @@ diversificacion
 - ¿Te interesaria tener otros productos de un material similiar y estética al de tu uniforme?
 - ¿Puedes nombrar alguno que te interese (buzos, gorras, bolsos, etc, ropa casual)?
 
+    #+end_verse
 
-    #+end_src
-
-
-    NOTA: hay más encuestas realizadas (7), pero
-    la transcripción aún no se ha realizado
 *** Cliente incognito
 
     Pendiente.
@@ -386,260 +522,52 @@ diversificacion
 * Buyer Personas
 
   Los Buyer personas se hicieron a partir de la identificción de los
-  clientes y las entrevistas. 
+  clientes y las entrevistas.
 
-** Adri
+  - Adri 'La Mami'
+  - Entrenador Richard
+  - Jason Rappiazone
 
-#+begin_src 
-'Adri' 
+\includepdf[pages=-]{assets/build/adri.pdf}
 
-Segmento
 
-Padres de familia
+\includepdf[pages=-]{assets/build/entrenador richard.pdf}
 
-Puesto 
 
-Representante de venta 
+\includepdf[pages=-]{assets/build/jason rappiazone.pdf}
+   
+* Mapa de empatía
 
-Edad 
 
-Entre 35 y 44 años 
 
-Nivel de educación más alto 
+  \includepdf[pages=-,landscape=True]{assets/build/mapa_de_empatia.pdf}
 
-Título profesional 
+  \newpage
+  
+  
+* Jornadas del cliente
 
-Redes sociales 
+#+CAPTION: Jornada 1  
+[[./entrega_jornadas/deportista_independiente_habitual.jpg]]
+#+CAPTION: Jornada 2 
+[[./entrega_jornadas/deportista_independiente_inicial.jpg]]
+#+CAPTION: Jornada 3
+[[./entrega_jornadas/padre_de_familia.jpg]]
 
 
-Industria 
+\newpage
+* Ideación
+** Deportista independiente
+   #+CAPTION: Ideacion #1
+#+ATTR_LaTeX:  :placement [H]
+ [[./assets/build/ideacion_1.jpeg]]
 
-Publicidad 
+   
+   
+** Deportista de escuela
 
-Tamaño de la organización 
-
-Entre 1 y 10 empleados 
-
-Canal favorito de comunicación 
-
-
-Teléfono 
-Correo electrónico 
-Herramientas que necesita para trabajar 
-
-
-Sistemas de gestión de contenido 
-Gestión de proyectos 
-Responsabilidades laborales 
-
-Dirigir grupos pequeños de personas 
-
-Su trabajo se mide en función de 
-
-productividad 
-
-Su superior es 
-
-Director 
-
-Metas u objetivos 
-
-Sacar más tiempo para su familia y mantener un empleo satisfactorio 
-
-Obtiene información a través de 
-
-De su formación profesional y red de contactos 
-
-Dificultades principales 
-
-
-Gestión de proyectos y falta de organización 
-Colaboración y creatividad 
-Frustraciones 
-
-No siente que su labor como madre es reconocida, a pesar de que es muy dedicada. 
-Semanalmente acompaña a su hijo la escuela de fútbol y participa mucho en las actividades de la 
-escuela. Sin embargo, esto la obliga a manejar muy buen su tiempo porqe tiene un ritmo de 
-trabajo considerable. 
-
-¿Qué escucha? 
-
-Escucha que hay muchos problemas en el mundo y siente que debe colaborar con el cuidado 
-medioambiental y sectores menos privilegiados. Sus amigas tienen u estilo de vida diferente al 
-de ella (algunas no están casadas), pero ella prefiere priorizar su hogar y luego, desempeñarse 
-bien en el mundo laboral. Entiende que su hijas están expuestas a retos insospechados y por eso 
-les brinda el mejor acompañamiento posible, sin ser sobreprotectora. 
-#+end_src
-
-** Entrenador Richard
-
-
-
-
-#+begin_src 
-
-Entrenador Richard 
-
-Segmento
-
-Entrenadores
-
-Puesto 
-
-
-Entrenador Líder 
-
-Edad 
-
-Entre 35 y 44 años 
-
-Nivel de educación más alto 
-
-Licenciatura 
-
-Redes sociales 
-
-
-Industria 
-
-Cuidado de la salud 
-
-Tamaño de la organización 
-
-Entre 11 y 50 empleados 
-
-Canal favorito de comunicación 
-
-
-Teléfono 
-Correo electrónico 
-Herramientas que necesita para trabajar 
-
-
-Correo electrónico 
-Responsabilidades laborales 
-
-Escribe aquí 
-
-Su trabajo se mide en función de 
-
-Supervisión de los horarios de entrenamiento, interacción con padres y alumnos, mide el 
-resultado de entrenadores a su cargo, consigue eventos deportivos para que los alumnos 
-puedan participar 
-
-Su superior es 
-
-Dueños de la escuela privada de fútbol 
-
-Metas u objetivos 
-
-Richard ha sido entrenador durante mucho tiempo en la escuela, y esta ha adquirido gran 
-prestigio, por lo que siente gran orgullo. Cree en los valores de la disciplina y el trabajo y 
-procura comunicarselos a sus alumnos. 
-
-Obtiene información a través de 
-
-En su formación profesional 
-
-Dificultades principales 
-
-
-Moral del empleado a cargo y de los muchachos
-
-Gestión del cambio
-
-Frustraciones 
-
-Richard maneja varios grupos de entrenamiento (de 3 a 5) todos los días , incuidos los sábados. 
-Debe mantener una actitud positiva todo el tiempo, pero en ocasiones es difícil lidiar con los 
-padres. El entiende que están preocupados por sus hijos, pero a la vez se da cuenta de que 
-muchos los sobreprotejen. Debe balancear la complacencia hacia padres y alumnos con la 
-excelencia deportiva. 
-#+end_src
-
-
-** Jason Rappiazone
-
-   #+begin_src 
-Jason Rappiazone 
-
-Segmento
-
- Jugadares regulares independientes
-
-Puesto 
-
-Mensajero en diferentes empresas 
-
-Edad 
-
-Entre 18 y 24 años 
-
-Nivel de educación más alto 
-
-Secundario o equivalente 
-
-Redes sociales 
-
-
-Industria 
-
-Alimentos y bebidas 
-
-Tamaño de la organización 
-
-Trabajador independiente 
-
-Canal favorito de comunicación 
-
-
-Mensajes de texto 
-Teléfono 
-En persona 
-Redes sociales 
-Herramientas que necesita para trabajar 
-
-Smartphone, bicicleta eléctrica 
-
-Su trabajo se mide en función de 
-
-Por envíos 
-
-Responsabilidades laborales 
-
-Hacer envíos a tiempo. 
-
-Metas u objetivos 
-
-Jason aspira un mejor nivel salarial, que le permita dedicarse a algo que le apasione, aunque aún 
-no ha hallado qué es. Hay situaciones socioeconocimas que se han interpuesto en su camino, por 
-lo que lleva algunos años trabajando como mensajero para varias empuestas. 
-
-Su superior es 
-
-Director 
-
-Obtiene información a través de 
-
-Del contancto con otros jóvenes como el.
-
-Dificultades principales 
-
-
-Desarrollo profesional 
-Recursos 
-
-Frustaciones 
-
-Siente que la vida a sido injusta con el y que a otras personas les ha tocado mucho más fácil. Por 
-eso siente un vínculo bastante fuerte con otros jóvenes que laboran en los mismos trabajos que 
-el. Anda mucho en la calle y las interacciones sociales son importantes durante el dia. 
-El fútbol luego del trabajo es pan de cada día. 
-
-
-¿Qué escucha? 
-
-Ve muchas redes sociales porque trabaja con su smartphone. Ve muchos contenidos de 
-recreación, como con 'Con Ánimo de Ofender', pero tambien se siente muy atraido por las 
-protestas sociales, que abundan en el país, y en países aledaños. 
-   #+end_src
+#+CAPTION: Ideacion #2
+#+ATTR_LaTeX:  :placement [H]
+ [[./assets/build/ideacion_2.jpg]]
+  
+   

@@ -1,4 +1,4 @@
-% Created 2021-09-09 jue 15:46
+% Created 2021-09-09 jue 15:42
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -38,7 +38,7 @@
  pdflang={Spanish}}
 \begin{document}
 
-
+\tableofcontents
 
 \begin{titlepage}
    \begin{center}
@@ -68,16 +68,16 @@
             
    \end{center}
 \end{titlepage}
-\tableofcontents
+
 \section{Análisis del entorno}
-\label{sec:org445c03c}
+\label{sec:org65478ee}
 \subsection{PESTEL}
-\label{sec:org37f1fc5}
+\label{sec:orgd8684f7}
 \subsubsection{Político}
-\label{sec:org379aa8c}
+\label{sec:orgd3927d4}
 \begin{enumerate}
 \item Amenaza de variante delta y mu
-\label{sec:orgd299be5}
+\label{sec:orgaa4808f}
 
 Con la aparición de nuevas variantes, la comunidad internacional está
 considerando volver a implementar medidas de aislamiento.
@@ -89,7 +89,7 @@ garantizar la salubridad y hay límites de espacio que se deben
 respetar, lo que disminuye capacidad de producción
 
 \item Cese de presencialidad en los colegios
-\label{sec:orgb222d56}
+\label{sec:orgde156d9}
 
 Si se prolonga el aislamiento social, por un posible cuarto pico, la
 proyección de ventas se desploma, puesto que prinipalmente recae en
@@ -101,7 +101,7 @@ parte de ese segmento.
 
 
 \item Déficit fiscal y tributación de la reforma 2.0:
-\label{sec:orga5490bc}
+\label{sec:org0e8b340}
 
 En la nueva reforma fiscal la tarifa de renta subirá del 30 al 35\%
 para hacerle frente al déficit fiscal que enfrenta el país.
@@ -112,11 +112,10 @@ plan de negocios plantea para sus productos.
 \end{enumerate}
 
 \subsubsection{Económico}
-\label{sec:org343ccb7}
+\label{sec:org70de3eb}
 \begin{enumerate}
 \item Alsa del dólar
-\label{sec:org32cb05a}
-  
+\label{sec:orgb892b60}
 La amenaza de la variante delta hace que la Fed aumente las tasas de
 interés del dolar, lo que desvaloriza el peso colombiano frente a la
 divisa.
@@ -125,14 +124,15 @@ Esto es una \textbf{amenaza} porque puede disuadir la inversión extranjera
 en el sector textil. Esto puede reducir los márgenes de
 rentabilidad de la confección, manufactura y distribución
 de producto textil.
+
+\item Proceso de reactivación económica
+\label{sec:orge0eeee9}
 \end{enumerate}
-
-
 \subsubsection{Social}
-\label{sec:org12d2e36}
+\label{sec:org58d6867}
 \begin{enumerate}
 \item Protagonismo del sector textil colombiano a nivel internacional
-\label{sec:orgbda6197}
+\label{sec:org1f26da0}
 
 El sector textil y la moda registra el 37\% de las empresas registrados en CCB.
 Según Colombia Productiva, el sector textil y de confección es el primer
@@ -145,7 +145,7 @@ ayudar a madres cabezas de hogar de sectores vulnerables a la vez que se
 contribuye al medio ambiente, dado que estos son temas coyunturales.
 
 \item Necesidad de impulsar la reactivación económica
-\label{sec:orge503cd2}
+\label{sec:orgf5d79e2}
 
 El Gobierno Duque enfatiza que el pais muestra ritmo de crecimiento
 elevado (1,1\%) el primer trimestre del año, en comparación con paises
@@ -158,17 +158,16 @@ esfuerzos presupuestales para iniciar le proceso de vacunación.
 \end{enumerate}
 
 \subsubsection{Tecnológico}
-\label{sec:org553a00d}
+\label{sec:org3e3102f}
 \begin{enumerate}
 \item Costos en servicios web
-  \label{sec:org7f15774}
-  
+\label{sec:org75afb4f}
 Los servicios de Cloud Computing de Amazon se cotizan en dólares.
 Este servicio es parte crucial de la infraestructura tecnolgócia
 
 Esto es una \textbf{amenaza} porque aumenta los costos en infraestructua
 \item Escasez de profesionales TI
-\label{sec:org933a81f}
+\label{sec:orgb342c36}
 
 Esto es una \textbf{amenaza} heredada del mercado de talento humano
 colombiano, ya que a día de hoy existe una demanda superior a la
@@ -176,11 +175,10 @@ oferta en cuanto a profesionales TI.
 \end{enumerate}
 
 \subsubsection{Ambiental}
-\label{sec:org9187abc}
+\label{sec:orgb0541fd}
 \begin{enumerate}
 \item Aceptación cultural del reciclaje
-  \label{sec:orgebeefdc}
-  
+\label{sec:org075c4aa}
 El mundo está entrando en periodo de conciencia ambiental. En
 Colombia, sectores como el de los hidrocarburos están iniciado una
 transformación hacia energías más limpias.
@@ -191,41 +189,41 @@ que hace que la propuesta de Becos altamente atractiva en el pais
 y el mundo por igual.
 \end{enumerate}
 \subsubsection{Legal}
-\label{sec:org109c92b}
+\label{sec:org80dd8f7}
 \begin{enumerate}
 \item Beneficios de una Sociedad por acciones simplificada
-\label{sec:org5580340}
+\label{sec:orgf6c94c9}
 
 En Colombia, estar constituido de esta manera representa una
 \textbf{oportunidad}, dadas las exenciones tributarias que conlleva.
 
 \item Beneficios ambientales
-\label{sec:orgf16b6a1}
+\label{sec:org565f16c}
 
 Se considera una \textbf{oportunidad} ya que la propuesta de Becos también
 pretende ser referente a nivel de leyes.
 \end{enumerate}
 \subsection{5 Fuerzas}
-\label{sec:org7915404}
+\label{sec:org6d4200c}
 \begin{figure}[H]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/build/5_fuerzas.png}
-\caption{\label{fig:orge49e3f4}5 fuerzas de Porter}
+\caption{\label{fig:org7d7f054}5 fuerzas de Porter}
 \end{figure}
 
 \section{BMM}
-\label{sec:orgbe8d077}
+\label{sec:org442034e}
 \subsection{Misión y vision}
-\label{sec:org0a61fe2}
+\label{sec:org24573d0}
 \subsubsection{Misión}
-\label{sec:org5715524}
+\label{sec:orgff3b3b7}
 Ser referente nacional e internacional con respecto
 a procesos ecologicamente sostenibles en el sector
 textil. Unir el diseño de la moda colombiana
 con la sostenibilidad y la conciencia social.
 
 \subsubsection{Visión}
-\label{sec:org57cb682}
+\label{sec:orgc281fe4}
 
 Para el año 2025, BECOS tendrá toda todo un catálogo de ropa deportiva
 fabricada con elementos 85\% reciclados. Tendrá lineas de ropa deportiva para
@@ -235,10 +233,10 @@ otros, hasta los de díficil adquisición: danza, ballet, patinaje,
 deportes urbanos etc.
 
 \subsection{Assesment}
-\label{sec:org30cf688}
+\label{sec:orgbd66e8c}
 \begin{enumerate}
 \item Influencias
-\label{sec:orge474aff}
+\label{sec:org40a9dd0}
 
 \begin{enumerate}
 \item Externas
@@ -261,29 +259,29 @@ deportes urbanos etc.
 \end{enumerate}
 
 \item DOFA
-\label{sec:orgfce53f4}
+\label{sec:orgf4271db}
 \begin{figure}[H]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/build/dofa.png}
-\caption{\label{fig:org3d53f5c}DOFA para Assesment de Influencias}
+\caption{\label{fig:orgba4e067}DOFA para Assesment de Influencias}
 \end{figure}
 \end{enumerate}
 
 
 \subsubsection{Medios}
-\label{sec:orged4e532}
+\label{sec:org9c0ee33}
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/build/means.png}
-\caption{\label{fig:orgc401d31}Estrategia}
+\caption{\label{fig:org875b4d7}Estrategia}
 \end{figure}
 
 \subsubsection{Externas}
-\label{sec:orgd3c9b75}
+\label{sec:orga78b0a8}
 
 \subsection{Blue Ocean Strategy Canvas \& ERRC GRID}
-\label{sec:org22b177e}
+\label{sec:org0b9c578}
 Ver figuras \ref{fig:blue_ocean}, \ref{fig:ercc}
 
 \begin{figure}[H]
@@ -297,7 +295,7 @@ Ver figuras \ref{fig:blue_ocean}, \ref{fig:ercc}
 \caption{\label{fig:ercc}ERRC}
 \end{figure}
 \subsection{Mapa de procesos, diccionario de procesos y organigrama}
-\label{sec:org80ff363}
+\label{sec:org1c941a0}
 
 \begin{figure}[htbp]
 \centering
@@ -324,9 +322,9 @@ Ver figuras \ref{fig:mapa_procesos}, \ref{fig:dic_procesos}, \ref{fig:organigram
 
 
 \section{Buyer Persona}
-\label{sec:org8fcde79}
+\label{sec:org231b613}
 \subsubsection{Definición del segmento de clientes}
-\label{sec:org14c8273}
+\label{sec:org71b27ff}
 Los clientes potenciales de BECOS son principalmente
 dos segmentos.
 
@@ -381,7 +379,7 @@ realizan ejercicios de calistenia, etc.
 
 
 \subsubsection{Entrevistas}
-\label{sec:orgde70a25}
+\label{sec:org3705661}
 En total se hicieron 10 entrevistas. Aquí dejamos una
 muestra a manera de ejemplo:
 
@@ -514,7 +512,7 @@ diversificacion\\
 \hspace*{2em}Gracias\\
 \end{verse}
 \subsubsection{Encuesta}
-\label{sec:orgf4cb41c}
+\label{sec:orgedb604a}
 Esta encuesta se circuló en redes sociales,|
 pero no alcanzó un valor representativo.
 
@@ -558,12 +556,12 @@ diversificacion\\
 \end{verse}
 
 \subsubsection{Cliente incognito}
-\label{sec:org36b66ce}
+\label{sec:org441ba7c}
 
 Pendiente.
 
 \subsubsection{Observación}
-\label{sec:org3559c96}
+\label{sec:orgbea30da}
 
 Alrededor de las escuelas de fútbol se forma una microcomunidad en la que un
 grupo significativo de padres participa. Esta comunidad se identificó como
@@ -596,7 +594,7 @@ prerrogativa del colegio o institución.
 
 
 \subsubsection{Identificacion y definición de los clientes}
-\label{sec:org61851ef}
+\label{sec:org81086fb}
 
 Hasta ahora se han distinguido tipos de clientes,
 que corresponserán a 3 segmentos:
@@ -616,7 +614,7 @@ que corresponserán a 3 segmentos:
 
 
 \section{Buyer Personas}
-\label{sec:org65c9867}
+\label{sec:org60b2761}
 
 Los Buyer personas se hicieron a partir de la identificción de los
 clientes y las entrevistas.
@@ -636,7 +634,7 @@ clientes y las entrevistas.
 \includepdf[pages=-]{assets/build/jason rappiazone.pdf}
 
 \section{Mapa de empatía}
-\label{sec:orgb86e1da}
+\label{sec:org47a4ce5}
 
 
 
@@ -646,7 +644,7 @@ clientes y las entrevistas.
 
 
 \section{Jornadas del cliente}
-\label{sec:orge9f5666}
+\label{sec:orgc603105}
 
 \begin{figure}[htbp]
 \centering
@@ -667,9 +665,9 @@ clientes y las entrevistas.
 
 \newpage
 \section{Ideación}
-\label{sec:org2b197e2}
+\label{sec:orgd2ca0d3}
 \subsection{Deportista independiente}
-\label{sec:orgdecd8a1}
+\label{sec:orgde28424}
 \begin{figure}[H]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/build/ideacion_1.jpeg}
@@ -679,7 +677,7 @@ clientes y las entrevistas.
 
 
 \subsection{Deportista de escuela}
-\label{sec:org514e8e9}
+\label{sec:orgf8f1f56}
 
 \begin{figure}[H]
 \centering
