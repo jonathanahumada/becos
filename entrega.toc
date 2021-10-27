@@ -1,4 +1,4 @@
-\babel@toc {spanish}{}
+\babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Análisis del entorno}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}PESTEL}{2}{subsection.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.1}Político}{2}{subsubsection.1.1.1}%
@@ -8,25 +8,27 @@
 \contentsline {subsubsection}{\numberline {1.1.5}Ambiental}{4}{subsubsection.1.1.5}%
 \contentsline {subsubsection}{\numberline {1.1.6}Legal}{4}{subsubsection.1.1.6}%
 \contentsline {subsection}{\numberline {1.2}5 Fuerzas}{5}{subsection.1.2}%
-\contentsline {section}{\numberline {2}BMM}{5}{section.2}%
+\contentsline {section}{\numberline {2}BMM}{6}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Misión y vision}{6}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Misión}{6}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Visión}{6}{subsubsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.2}Assesment}{6}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Medios}{8}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Externas}{8}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2}Externas}{9}{subsubsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.3}Blue Ocean Strategy Canvas \& ERRC GRID}{9}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Mapa de procesos, diccionario de procesos y organigrama}{10}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Buyer Persona}{12}{section.3}%
-\contentsline {subsubsection}{\numberline {3.0.1}Definición del segmento de clientes}{12}{subsubsection.3.0.1}%
-\contentsline {subsubsection}{\numberline {3.0.2}Entrevistas}{13}{subsubsection.3.0.2}%
-\contentsline {subsubsection}{\numberline {3.0.3}Encuesta}{17}{subsubsection.3.0.3}%
-\contentsline {subsubsection}{\numberline {3.0.4}Cliente incognito}{19}{subsubsection.3.0.4}%
-\contentsline {subsubsection}{\numberline {3.0.5}Observación}{19}{subsubsection.3.0.5}%
-\contentsline {subsubsection}{\numberline {3.0.6}Identificacion y definición de los clientes}{20}{subsubsection.3.0.6}%
-\contentsline {section}{\numberline {4}Buyer Personas}{20}{section.4}%
-\contentsline {section}{\numberline {5}Mapa de empatía}{27}{section.5}%
-\contentsline {section}{\numberline {6}Jornadas del cliente}{30}{section.6}%
-\contentsline {section}{\numberline {7}Ideación}{31}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Deportista independiente}{31}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Deportista de escuela}{32}{subsection.7.2}%
+\contentsline {subsection}{\numberline {2.5}Procesos estratégicos}{12}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Procesos operativos}{14}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Buyer Persona}{17}{section.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}Definición del segmento de clientes}{17}{subsubsection.3.0.1}%
+\contentsline {subsubsection}{\numberline {3.0.2}Entrevistas}{17}{subsubsection.3.0.2}%
+\contentsline {subsubsection}{\numberline {3.0.3}Encuesta}{22}{subsubsection.3.0.3}%
+\contentsline {subsubsection}{\numberline {3.0.4}Cliente incognito}{24}{subsubsection.3.0.4}%
+\contentsline {subsubsection}{\numberline {3.0.5}Observación}{24}{subsubsection.3.0.5}%
+\contentsline {subsubsection}{\numberline {3.0.6}Identificacion y definición de los clientes}{24}{subsubsection.3.0.6}%
+\contentsline {section}{\numberline {4}Buyer Personas}{25}{section.4}%
+\contentsline {section}{\numberline {5}Mapa de empatía}{32}{section.5}%
+\contentsline {section}{\numberline {6}Jornadas del cliente}{35}{section.6}%
+\contentsline {section}{\numberline {7}Ideación}{36}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Deportista independiente}{36}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Deportista de escuela}{37}{subsection.7.2}%
