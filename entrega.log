@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.22)  27 OCT 2021 16:21
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.22)  27 OCT 2021 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,13 +434,21 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \ESO@tempdima=\dimen163
 \ESO@tempdimb=\dimen164
 
-(c:/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+(c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 (c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: xetex.def on input line 149.
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
 \AM@pagewidth=\dimen165
 \AM@pageheight=\dimen166
@@ -469,6 +477,60 @@ rs
 \f@nch@O@erf=\skip68
 \f@nch@O@olf=\skip69
 \f@nch@O@orf=\skip70
+)
+(c:/texlive/2021/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: csvsimple 2021/09/09 v2.2.0 LaTeX CSV file processing
+)
+(c:/texlive/2021/texmf-dist/tex/latex/csvsimple/csvsimple-legacy.sty
+Package: csvsimple-legacy 2021/09/09 version 2.2.0 LaTeX2e CSV file processing
+
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen168
+\pgfutil@tempdimb=\dimen169
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box65
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks35
+))) (c:/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count311
+)
+(c:/texlive/2021/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read3
+\c@csvinputline=\count312
+\c@csvrow=\count313
+\c@csvcol=\count314
+\csv@out=\write3
+)
+(c:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen170
+\ar@mcellbox=\box66
+\extrarowheight=\dimen171
+\NC@list=\toks36
+\extratabsurround=\skip71
+\backup@length=\skip72
+\ar@cellbox=\box67
 )
 
 Package fontspec Info: Font family 'NotoSans(0)' created for font 'Noto Sans'
@@ -506,33 +568,33 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `entrega.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+1.
 
 (c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-Package hyperref Info: Link coloring OFF on input line 39.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+Package hyperref Info: Link coloring OFF on input line 41.
 
 (c:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -543,77 +605,77 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (c:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count311
+\c@section@level=\count315
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./entrega.out) (./entrega.out)
-\@outlinefile=\write3
-\openout3 = `entrega.out'.
+\@outlinefile=\write4
+\openout4 = `entrega.out'.
 
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 39.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 39.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 39.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 39.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 39.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 39.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 39.
-LaTeX Font Info:    Redeclaring math accent \check on input line 39.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 39.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 39.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 39.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 39.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 41.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 41.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 41.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 41.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 41.
+LaTeX Font Info:    Redeclaring math accent \check on input line 41.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 41.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 41.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 39.
+(Font)              `operators' in the math version `normal' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/NotoSans(0)/m/n on input line 39.
+(Font)                  OT1/cmr/m/n --> TU/NotoSans(0)/m/n on input line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 39.
+(Font)              `operators' in the math version `bold' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/NotoSans(0)/m/n on input line 39.
+(Font)                  OT1/cmr/bx/n --> TU/NotoSans(0)/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/NotoSans(0)/m/n --> TU/NotoSans(0)/m/n on input line
- 39.
+ 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/NotoSans(0)/m/it on input line 39.
+(Font)                  OT1/cmr/m/it --> TU/NotoSans(0)/m/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/NotoSans(0)/b/n on input line 39.
+(Font)                  OT1/cmr/bx/n --> TU/NotoSans(0)/b/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 39.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/NotoSans(0)/m/n --> TU/NotoSans(0)/b/n on input line
- 39.
+ 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/NotoSans(0)/b/it on input line 39.
+(Font)                  OT1/cmr/bx/it --> TU/NotoSans(0)/b/it on input line 41.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 39.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 41.
 
 
 ! LaTeX Error: File `pdflscape.sty' not found.
@@ -637,10 +699,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 
 (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write4
-\openout4 = `entrega.toc'.
-
+)
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
 
@@ -652,7 +711,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[1]
+[1])
+\tf@toc=\write5
+\openout5 = `entrega.toc'.
+
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
 
@@ -665,13 +727,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [2]
-Overfull \hbox (3.49825pt too wide) in paragraph at lines 124--128
+Overfull \hbox (3.49825pt too wide) in paragraph at lines 126--130
 \TU/NotoSans(0)/m/n/10.95 jera en el sector textil. Esto puede reducir los márg
 enes de rentabil-
  []
 
 
-Overfull \hbox (5.48183pt too wide) in paragraph at lines 166--168
+Overfull \hbox (5.48183pt too wide) in paragraph at lines 168--170
 []\TU/NotoSans(0)/m/n/10.95 Los servicios de Cloud Computing de Amazon se cotiz
 an en dólares.
  []
@@ -771,15 +833,279 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [9]
 File: ./assets/build/mapa_procesos.png Graphic file (type bmp)
 <./assets/build/mapa_procesos.png>
-File: ./assets/build/diccionario_procesos.png Graphic file (type bmp)
-<./assets/build/diccionario_procesos.png>
-File: ./assets/build/organigrama.png Graphic file (type bmp)
-<./assets/build/organigrama.png>
-File: ./assets/build/planeacion.png Graphic file (type bmp)
-<./assets/build/planeacion.png>
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.317     \hline
+                
+? 
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.318   m
+         acroproceso   &               proceso                             &...
+
+? 
+! Extra alignment tab has been changed to \cr.
+<template> \endtemplate 
+                        
+l.318   m
+         acroproceso   &               proceso                             &...
+
+? 
+
+Overfull \hbox (2.39735pt too wide) in paragraph at lines 318--318
+[]|\TU/NotoSans(0)/m/n/10.95 macroproceso| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+[]|\TU/NotoSans(0)/m/n/10.95 Planeación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+[]|\TU/NotoSans(0)/m/n/10.95 Repartir recursos a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+[]|\TU/NotoSans(0)/m/n/10.95 Definir, implementar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+[]|\TU/NotoSans(0)/m/n/10.95 Investigación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+[]|\TU/NotoSans(0)/m/n/10.95 Requisición
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+[]|\TU/NotoSans(0)/m/n/10.95 Solicitar material a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
+[]|\TU/NotoSans(0)/m/n/10.95 Logística de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+[]|\TU/NotoSans(0)/m/n/10.95 Recibir pedidos de
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 326--326
+[]|\TU/NotoSans(0)/m/n/10.95 Fabricacion y
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 326--327
+[]|\TU/NotoSans(0)/m/n/10.95 Confección de pren-
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 327--328
+[]|\TU/NotoSans(0)/m/n/10.95 Revisión de tiquetea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--328
+[]|\TU/NotoSans(0)/m/n/10.95 Gestión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+[]|\TU/NotoSans(0)/m/n/10.95 soporte-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+[]|\TU/NotoSans(0)/m/n/10.95 comprobar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\TU/NotoSans(0)/m/n/10.95 viabilidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+[]|\TU/NotoSans(0)/m/n/10.95 Validación de deci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+[]|\TU/NotoSans(0)/m/n/10.95 soporte-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+[]|\TU/NotoSans(0)/m/n/10.95 Formalizar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]|\TU/NotoSans(0)/m/n/10.95 soporte-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+[]|\TU/NotoSans(0)/m/n/10.95 soporte-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+[]|\TU/NotoSans(0)/m/n/10.95 Control de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
+[]|\TU/NotoSans(0)/m/n/10.95 soporte-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
+[]|\TU/NotoSans(0)/m/n/10.95 Pagos a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
+[]|\TU/NotoSans(0)/m/n/10.95 soporte-
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 334--334
+[]|\TU/NotoSans(0)/m/n/10.95 Pagos Nomi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+[]|\TU/NotoSans(0)/m/n/10.95 Adquisición de per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\TU/NotoSans(0)/m/n/10.95 Realizar en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+[]|\TU/NotoSans(0)/m/n/10.95 Adquisición de per-
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 337--337
+[]|\TU/NotoSans(0)/m/n/10.95 Solicitud per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+[]|\TU/NotoSans(0)/m/n/10.95 Adquisición de per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]|\TU/NotoSans(0)/m/n/10.95 Selección y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[]|\TU/NotoSans(0)/m/n/10.95 Adquisición de per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+[]|\TU/NotoSans(0)/m/n/10.95 Soporte tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+\TU/NotoSans(0)/m/n/10.95 nología y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+\TU/NotoSans(0)/m/n/10.95 comunica-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad de ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad de ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
+[]|\TU/NotoSans(0)/m/n/10.95 Gestión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad de ac-
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 342--342
+\TU/NotoSans(0)/m/n/10.95 riegsos y es-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad de ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
+[]|\TU/NotoSans(0)/m/n/10.95 Gestion de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad de ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]|\TU/NotoSans(0)/m/n/10.95 Gestion de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+[]|\TU/NotoSans(0)/m/n/10.95 Trazabilidad de ac-
+ []
+
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.27051pt, for example:
@@ -801,6 +1127,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [11]
+File: ./assets/build/organigrama.png Graphic file (type bmp)
+<./assets/build/organigrama.png>
+File: ./assets/build/planeacion.png Graphic file (type bmp)
+<./assets/build/planeacion.png>
+File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
+<assets/build/logo_nuevo_header.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.27051pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.27051pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
+
+[12]
+File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
+<assets/build/logo_nuevo_header.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.27051pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.27051pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
+
+[13]
 File: ./assets/build/presupuesto.png Graphic file (type bmp)
 <./assets/build/presupuesto.png>
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
@@ -814,7 +1168,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[12]
+[14]
 File: ./assets/build/mercadeo.png Graphic file (type bmp)
 <./assets/build/mercadeo.png>
 File: ./assets/build/investigacion.png Graphic file (type bmp)
@@ -830,7 +1184,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[13]
+[15]
 File: ./assets/build/requisicion_compra.png Graphic file (type bmp)
 <./assets/build/requisicion_compra.png>
 File: ./assets/build/logística_entrada.png Graphic file (type bmp)
@@ -846,7 +1200,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[14]
+[16]
 File: ./assets/build/fabricacion_produccion.png Graphic file (type bmp)
 <./assets/build/fabricacion_produccion.png>
 File: ./assets/build/calidad.png Graphic file (type bmp)
@@ -862,37 +1216,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[15]
+[17]
 File: ./assets/build/gestion_despacho.png Graphic file (type bmp)
 <./assets/build/gestion_despacho.png>
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 382.
-
-File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
-<assets/build/logo_nuevo_header.png>
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.27051pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.27051pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
-
-[16]
-File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
-<assets/build/logo_nuevo_header.png>
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.27051pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.27051pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
-
-[17]
+File: ./assets/build/soporte/finanza/finanza.png Graphic file (type bmp)
+<./assets/build/soporte/finanza/finanza.png>
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
 
@@ -905,6 +1233,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [18]
+File: ./assets/build/soporte/hr/hr.png Graphic file (type bmp)
+<./assets/build/soporte/hr/hr.png>
+File: ./assets/build/soporte/it/it.png Graphic file (type bmp)
+<./assets/build/soporte/it/it.png>
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
 
@@ -917,16 +1249,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [19]
-Overfull \hbox (0.83167pt too wide) in paragraph at lines 520--520
-[]\TU/NotoSans(0)/m/n/10.95 - ¿Conoces cómo confeccionaron los uniformes que ha
-s com-
- []
 
-
-Overfull \hbox (4.87424pt too wide) in paragraph at lines 536--536
-\TU/NotoSans(0)/m/n/10.95 ,los textiles. Uno está supeditado a lo que el colegi
-o ofrece. 
- []
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 441.
 
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
@@ -963,7 +1288,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [22]
-Overfull \hbox (0.83167pt too wide) in paragraph at lines 597--597
+Overfull \hbox (0.83167pt too wide) in paragraph at lines 579--579
 []\TU/NotoSans(0)/m/n/10.95 - ¿Conoces cómo confeccionaron los uniformes que ha
 s com-
  []
@@ -979,15 +1304,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [23]
-Overfull \hbox (5.50374pt too wide) in paragraph at lines 636--639
-\TU/NotoSans(0)/m/n/10.95 mentaria deportiva con los que hay insatisfacción y q
-ue los entrenadores
- []
-
-
-Overfull \hbox (4.8304pt too wide) in paragraph at lines 645--648
-\TU/NotoSans(0)/m/n/10.95 forme, aunque manifiestan que no hay nada que se pued
-a hacer, porque
+Overfull \hbox (4.87424pt too wide) in paragraph at lines 595--595
+\TU/NotoSans(0)/m/n/10.95 ,los textiles. Uno está supeditado a lo que el colegi
+o ofrece. 
  []
 
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
@@ -1001,14 +1320,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [24]
-File: assets/build/adri.pdf Graphic file (type pdf)
-<use assets/build/adri.pdf>
-File: assets/build/adri.pdf Graphic file (type pdf)
-<use assets/build/adri.pdf>
-File: assets/build/adri.pdf Graphic file (type pdf)
-<use assets/build/adri.pdf, page 1>
-File: assets/build/adri.pdf Graphic file (type pdf)
-<use assets/build/adri.pdf, page 1>
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
 
@@ -1021,64 +1332,120 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [25]
+Overfull \hbox (0.83167pt too wide) in paragraph at lines 656--656
+[]\TU/NotoSans(0)/m/n/10.95 - ¿Conoces cómo confeccionaron los uniformes que ha
+s com-
+ []
+
+File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
+<assets/build/logo_nuevo_header.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.27051pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.27051pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
+
+[26]
+Overfull \hbox (5.50374pt too wide) in paragraph at lines 695--698
+\TU/NotoSans(0)/m/n/10.95 mentaria deportiva con los que hay insatisfacción y q
+ue los entrenadores
+ []
+
+File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
+<assets/build/logo_nuevo_header.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.27051pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.27051pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
+
+[27]
+Overfull \hbox (4.8304pt too wide) in paragraph at lines 704--707
+\TU/NotoSans(0)/m/n/10.95 forme, aunque manifiestan que no hay nada que se pued
+a hacer, porque
+ []
+
+File: assets/build/adri.pdf Graphic file (type pdf)
+<use assets/build/adri.pdf>
+File: assets/build/adri.pdf Graphic file (type pdf)
+<use assets/build/adri.pdf>
+File: assets/build/adri.pdf Graphic file (type pdf)
+<use assets/build/adri.pdf, page 1>
+File: assets/build/adri.pdf Graphic file (type pdf)
+<use assets/build/adri.pdf, page 1>
+File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
+<assets/build/logo_nuevo_header.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.27051pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.27051pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
+
+[28]
 File: assets/build/adri.pdf Graphic file (type pdf)
 <use assets/build/adri.pdf, page 1>
 File: assets/build/adri.pdf Graphic file (type pdf)
 <use assets/build/adri.pdf, page 1>
 File: assets/build/adri.pdf Graphic file (type pdf)
 <use assets/build/adri.pdf, page 1>
- [26]
-File: assets/build/adri.pdf Graphic file (type pdf)
-<use assets/build/adri.pdf, page 2>
-File: assets/build/adri.pdf Graphic file (type pdf)
-<use assets/build/adri.pdf, page 2>
-File: assets/build/adri.pdf Graphic file (type pdf)
-<use assets/build/adri.pdf, page 2>
- [27]
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf>
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf>
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf, page 1>
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf, page 1>
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf, page 1>
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf, page 1>
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf, page 1>
- [28]
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf, page 2>
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf, page 2>
-File: assets/build/entrenador richard.pdf Graphic file (type pdf)
-<use assets/build/entrenador richard.pdf, page 2>
  [29]
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf>
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf>
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf, page 1>
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf, page 1>
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf, page 1>
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf, page 1>
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf, page 1>
+File: assets/build/adri.pdf Graphic file (type pdf)
+<use assets/build/adri.pdf, page 2>
+File: assets/build/adri.pdf Graphic file (type pdf)
+<use assets/build/adri.pdf, page 2>
+File: assets/build/adri.pdf Graphic file (type pdf)
+<use assets/build/adri.pdf, page 2>
  [30]
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf, page 2>
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf, page 2>
-File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
-<use assets/build/jason rappiazone.pdf, page 2>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf, page 1>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf, page 1>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf, page 1>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf, page 1>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf, page 1>
  [31]
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf, page 2>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf, page 2>
+File: assets/build/entrenador richard.pdf Graphic file (type pdf)
+<use assets/build/entrenador richard.pdf, page 2>
+ [32]
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf>
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf>
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf, page 1>
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf, page 1>
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf, page 1>
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf, page 1>
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf, page 1>
+ [33]
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf, page 2>
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf, page 2>
+File: assets/build/jason rappiazone.pdf Graphic file (type pdf)
+<use assets/build/jason rappiazone.pdf, page 2>
+ [34]
 File: assets/build/mapa_de_empatia.pdf Graphic file (type pdf)
 <use assets/build/mapa_de_empatia.pdf>
 File: assets/build/mapa_de_empatia.pdf Graphic file (type pdf)
@@ -1098,7 +1465,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[32]
+[35]
 File: assets/build/mapa_de_empatia.pdf Graphic file (type pdf)
 <use assets/build/mapa_de_empatia.pdf, page 1>
 File: assets/build/mapa_de_empatia.pdf Graphic file (type pdf)
@@ -1107,16 +1474,16 @@ File: assets/build/mapa_de_empatia.pdf Graphic file (type pdf)
 ! Undefined control sequence.
 \AM@setRotate ->\PLS@Rotate 
                             {90}
-l.697 ...e=True]{assets/build/mapa_de_empatia.pdf}
+l.756 ...e=True]{assets/build/mapa_de_empatia.pdf}
                                                   
 ? 
 File: assets/build/mapa_de_empatia.pdf Graphic file (type pdf)
 <use assets/build/mapa_de_empatia.pdf, page 1>
-[33]
+[36]
 ! Undefined control sequence.
 \AM@resetRotate ->\PLS@Rotate 
                               {0}
-l.697 ...e=True]{assets/build/mapa_de_empatia.pdf}
+l.756 ...e=True]{assets/build/mapa_de_empatia.pdf}
                                                   
 ? 
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
@@ -1129,7 +1496,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[34]
+[37]
 File: ./entrega_jornadas/deportista_independiente_habitual.jpg Graphic file (ty
 pe bmp)
 <./entrega_jornadas/deportista_independiente_habitual.jpg>
@@ -1149,7 +1516,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[35]
+[38]
 File: ./assets/build/ideacion_1.jpeg Graphic file (type bmp)
 <./assets/build/ideacion_1.jpeg>
 File: ./assets/build/ideacion_2.jpg Graphic file (type bmp)
@@ -1165,7 +1532,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[36]
+[39]
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
 
@@ -1177,20 +1544,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[37] (./entrega.aux
+[40] (./entrega.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `entrega.out' has not changed.
-(rerunfilecheck)             Checksum: B389CDD093BEC4FA9B0AC61A21A8EE8C;4691.
+(rerunfilecheck)             Checksum: 7B66779BB77DC2F965FB00454140DC87;4850.
  ) 
 Here is how much of TeX's memory you used:
- 14178 strings out of 478472
- 266177 string characters out of 5861700
- 639963 words of memory out of 5000000
- 34229 multiletter control sequences out of 15000+600000
+ 16225 strings out of 478472
+ 307342 string characters out of 5861700
+ 695149 words of memory out of 5000000
+ 36221 multiletter control sequences out of 15000+600000
  411596 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 73i,17n,85p,396b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,17n,85p,396b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on entrega.pdf (38 pages).
+Output written on entrega.pdf (41 pages).

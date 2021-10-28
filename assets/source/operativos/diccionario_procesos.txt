@@ -1,0 +1,26 @@
+macroproceso	proceso	objetivo	meta	indicadores	entradas 	reglas
+estratégico	Planeación estratégica					
+estratégico	Presupuesto					
+estratégico	Mercadeo					
+estratégico	Investigación y desarrollo					
+operativo	Requisición y órdenes de compra					
+operativo	Logística de entrada					
+operativo	Fabricacion y produccion					
+operativo	Inspección de confección					
+operativo	Gestión de despachos					
+soporte-finanza	comprobar viabilidad financiera					
+soporte-finanza	Formalizar Desembolso					
+soporte-finanza	Solicitar Pago					
+soporte-finanza	Control de contabilidad					
+soporte-finanza	Pagos a proovedor					
+soporte-finanza	Pagos Nomina					
+soporte-hr	Contratación					
+soporte-hr	Realizar entrevistas					
+soporte-hr	Solicitud personal					
+soporte-hr	Selección y contratación					
+soporte-it	Soporte tecnología y comunicaciones					
+soporte-it	Gestion de incidentes					
+soporte-it	Gestión de cambios					
+soporte-it	Evaluación de riegsos y estado					
+soporte-it	Gestion de Problemas					
+soporte-it	Gestion de configuración					

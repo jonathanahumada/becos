@@ -18,17 +18,18 @@
 \contentsline {subsection}{\numberline {2.3}Blue Ocean Strategy Canvas \& ERRC GRID}{9}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Mapa de procesos, diccionario de procesos y organigrama}{10}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}Procesos estratégicos}{12}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Procesos operativos}{14}{subsection.2.6}%
-\contentsline {section}{\numberline {3}Buyer Persona}{17}{section.3}%
-\contentsline {subsubsection}{\numberline {3.0.1}Definición del segmento de clientes}{17}{subsubsection.3.0.1}%
-\contentsline {subsubsection}{\numberline {3.0.2}Entrevistas}{17}{subsubsection.3.0.2}%
-\contentsline {subsubsection}{\numberline {3.0.3}Encuesta}{22}{subsubsection.3.0.3}%
-\contentsline {subsubsection}{\numberline {3.0.4}Cliente incognito}{24}{subsubsection.3.0.4}%
-\contentsline {subsubsection}{\numberline {3.0.5}Observación}{24}{subsubsection.3.0.5}%
-\contentsline {subsubsection}{\numberline {3.0.6}Identificacion y definición de los clientes}{24}{subsubsection.3.0.6}%
-\contentsline {section}{\numberline {4}Buyer Personas}{25}{section.4}%
-\contentsline {section}{\numberline {5}Mapa de empatía}{32}{section.5}%
-\contentsline {section}{\numberline {6}Jornadas del cliente}{35}{section.6}%
-\contentsline {section}{\numberline {7}Ideación}{36}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Deportista independiente}{36}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Deportista de escuela}{37}{subsection.7.2}%
+\contentsline {subsection}{\numberline {2.6}Procesos operativos}{16}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Procesos de soporte}{19}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Buyer Persona}{20}{section.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}Definición del segmento de clientes}{20}{subsubsection.3.0.1}%
+\contentsline {subsubsection}{\numberline {3.0.2}Entrevistas}{21}{subsubsection.3.0.2}%
+\contentsline {subsubsection}{\numberline {3.0.3}Encuesta}{25}{subsubsection.3.0.3}%
+\contentsline {subsubsection}{\numberline {3.0.4}Cliente incognito}{27}{subsubsection.3.0.4}%
+\contentsline {subsubsection}{\numberline {3.0.5}Observación}{27}{subsubsection.3.0.5}%
+\contentsline {subsubsection}{\numberline {3.0.6}Identificacion y definición de los clientes}{28}{subsubsection.3.0.6}%
+\contentsline {section}{\numberline {4}Buyer Personas}{28}{section.4}%
+\contentsline {section}{\numberline {5}Mapa de empatía}{35}{section.5}%
+\contentsline {section}{\numberline {6}Jornadas del cliente}{38}{section.6}%
+\contentsline {section}{\numberline {7}Ideación}{39}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Deportista independiente}{39}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Deportista de escuela}{40}{subsection.7.2}%

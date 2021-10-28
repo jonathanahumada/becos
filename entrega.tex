@@ -1,7 +1,7 @@
 % Created 2021-09-09 jue 15:46
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
-\usepackage[utf8]{inputenc}
+\usepackage[utf8x]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage{grffile}
@@ -19,6 +19,8 @@
 \usepackage{float}
 \usepackage{pdfpages}
 \usepackage{fancyhdr}
+\usepackage{csvsimple}
+\usepackage{array}
 \setmainfont{Noto Sans}
 \setmainfont{Noto Sans}
 \pagestyle{fancy}
@@ -305,11 +307,45 @@ Ver figuras \ref{fig:blue_ocean}, \ref{fig:ercc}
 \caption{\label{fig:mapa_procesos}Mapa de procesos}
 \end{figure}
 
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=.9\linewidth]{./assets/build/diccionario_procesos.png}
-\caption{\label{fig:dic_procesos}Diccionario de Procesos}
-\end{figure}
+\begin{longtable}[c]{  | m{2.5cm} | m{2.5cm}| m{4cm} |}
+
+  \caption{Diccionario de procesos}
+  
+  \label{table:diccionario_procesos}
+  
+   
+    \hline
+  macroproceso   &               proceso                             &                objetivo        \\
+  \hline
+  estratégico   &               Planeación estratégica            &    Determinar misión, vision y objetivos del negocio                               \\
+  estratégico   &               Presupuesto                         &  Repartir recursos a áreas de la empresa                                \\
+  estratégico   &               Mercadeo                            &  Definir, implementar y medir estrategia de medios                                 \\
+  estratégico   &               Investigación y desarrollo         &  Priorizar e implementar proyectos                                 \\
+  operativo      &               Requisición y órdenes de compra   &  Solicitar material a proveedores                                 \\
+  operativo      &               Logística de entrada               & Recibir pedidos de proveedores                                  \\
+  operativo      &               Fabricacion y produccion            &  Confección de prendas                                 \\
+  operativo      &               Inspección de confección          &   Revisión de tiqueteado y defectos                                \\
+  operativo      &               Gestión de despachos               &  Transporte de producto a cliente final                                 \\
+  soporte-finanza&               comprobar viabilidad financiera     &  Validación de decisiones de compras                                 \\
+  soporte-finanza&               Formalizar Desembolso               &   Trazabilidad financiera                                \\
+  soporte-finanza&               Solicitar Pago                      &  Gestión y trazabilidodad de ventas                                 \\
+  soporte-finanza&               Control de contabilidad             &  Trazabilidad financiera                                 \\
+  soporte-finanza&               Pagos a proovedor                   &  Trazabilidad financiera                                 \\
+  soporte-finanza&               Pagos Nomina                        &  Trazabilidad financiera                                 \\
+  soporte-hr     &               Contratación                       &   Adquisición de personal                                \\
+  soporte-hr     &               Realizar entrevistas                &      Adquisición de personal                                 \\
+  soporte-hr     &               Solicitud personal                  &     Adquisición de personal                                  \\
+  soporte-hr     &               Selección y contratación          &       Adquisición de personal                                \\
+  soporte-it     &               Soporte tecnología y comunicaciones&       Trazabilidad de activos informáticos                           \\
+  soporte-it     &               Gestion de incidentes               &     Trazabilidad de activos informáticos                              \\
+  soporte-it     &               Gestión de cambios                 &         Trazabilidad de activos informáticos                          \\
+  soporte-it     &               Evaluación de riegsos y estado     &        Trazabilidad de activos informáticos                           \\
+  soporte-it     &               Gestion de Problemas                &     Trazabilidad de activos informáticos                              \\
+  soporte-it     &               Gestion de configuración           &      Trazabilidad de activos informáticos                             \\
+  \hline
+ 
+\end{longtable}
+  
 
 \begin{figure}[htbp]
 \centering
@@ -317,7 +353,7 @@ Ver figuras \ref{fig:blue_ocean}, \ref{fig:ercc}
 \caption{\label{fig:organigrama}Organigrama}
 \end{figure}
 
-Ver figuras \ref{fig:mapa_procesos}, \ref{fig:dic_procesos}, \ref{fig:organigrama}.
+Ver figuras \ref{fig:mapa_procesos}, \ref{table:diccionario_procesos}, \ref{fig:organigrama}.
 
 \subsection{Procesos estratégicos}
 
@@ -377,6 +413,29 @@ Ver figuras \ref{fig:planeacion}, \ref{fig:presupuesto}, \ref{fig:mercadeo}.
 \caption{\label{fig:gest_despacho}Gestión de despachos}
 \end{figure}
 
+\subsection{Procesos de soporte}
+Los procesos de soporte han sido agrupados en grupos.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=.9\linewidth]{./assets/build/soporte/finanza/finanza.png}
+  \caption{\label{fig:finanza} Finanza}
+  \end{figure}
+
+  
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=.9\linewidth]{./assets/build/soporte/hr/hr.png}
+    \caption{\label{fig:hr} Recursos Humanos}
+    \end{figure}
+  
+
+    \begin{figure}[H]
+      \centering
+      \includegraphics[width=.9\linewidth]{./assets/build/soporte/it/it.png}
+      \caption{\label{fig:it} IT}
+      \end{figure}
+    
 \section{Buyer Persona}
 \label{sec:org8fcde79}
 \subsubsection{Definición del segmento de clientes}
