@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.22)  27 OCT 2021 23:40
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.22)  29 OCT 2021 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1533,6 +1533,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
 [39]
+Overfull \hbox (5.2665pt too wide) in paragraph at lines 811--816
+[]\TU/NotoSans(0)/m/n/10.95 La trazabilidad del inventario se hace de forma man
+ual y es propen-
+ []
+
+
+Overfull \hbox (1.22226pt too wide) in paragraph at lines 835--840
+\TU/NotoSans(0)/m/n/10.95 señal que recibirán tanto el almacenista como el oper
+ario de trans-
+ []
+
+File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
+<assets/build/logo_nuevo_header.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.27051pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.27051pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
+
+[40]
+File: ./assets/build/to_be/requisicion_compra.png Graphic file (type bmp)
+<./assets/build/to_be/requisicion_compra.png>
+File: ./assets/build/to_be/fabricacion_produccion.png Graphic file (type bmp)
+<./assets/build/to_be/fabricacion_produccion.png>
+File: ./assets/build/to_be/inspeccion_confeccion.png Graphic file (type bmp)
+<./assets/build/to_be/inspeccion_confeccion.png>
 File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
 <assets/build/logo_nuevo_header.png>
 
@@ -1544,20 +1572,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
 
-[40] (./entrega.aux
+[41]
+File: ./assets/build/to_be/gestion_despacho.png Graphic file (type bmp)
+<./assets/build/to_be/gestion_despacho.png>
+File: assets/build/logo_nuevo_header.png Graphic file (type bmp)
+<assets/build/logo_nuevo_header.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.27051pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.27051pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.27051pt}.
+
+[42] (./entrega.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `entrega.out' has not changed.
-(rerunfilecheck)             Checksum: 7B66779BB77DC2F965FB00454140DC87;4850.
+(rerunfilecheck)             Checksum: F267651077A1208514073CD278046682;5508.
  ) 
 Here is how much of TeX's memory you used:
- 16225 strings out of 478472
- 307342 string characters out of 5861700
- 695149 words of memory out of 5000000
- 36221 multiletter control sequences out of 15000+600000
+ 16260 strings out of 478472
+ 308854 string characters out of 5861700
+ 696062 words of memory out of 5000000
+ 36254 multiletter control sequences out of 15000+600000
  411596 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  73i,17n,85p,396b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on entrega.pdf (41 pages).
+Output written on entrega.pdf (43 pages).

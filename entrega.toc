@@ -2,7 +2,7 @@
 \contentsline {section}{\numberline {1}Análisis del entorno}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}PESTEL}{2}{subsection.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.1}Político}{2}{subsubsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.2}Económico}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.2}Económico}{3}{subsubsection.1.1.2}%
 \contentsline {subsubsection}{\numberline {1.1.3}Social}{3}{subsubsection.1.1.3}%
 \contentsline {subsubsection}{\numberline {1.1.4}Tecnológico}{3}{subsubsection.1.1.4}%
 \contentsline {subsubsection}{\numberline {1.1.5}Ambiental}{4}{subsubsection.1.1.5}%
@@ -33,3 +33,7 @@
 \contentsline {section}{\numberline {7}Ideación}{39}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Deportista independiente}{39}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Deportista de escuela}{40}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Identificación de problemas}{40}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Nuevas tecnologías}{40}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Cambios en la operación}{41}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Procesos To-Be}{41}{subsection.8.3}%
